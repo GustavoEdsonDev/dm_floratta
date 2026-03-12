@@ -70,7 +70,7 @@ const ProductDetail = () => {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.5, delay: 0.3 }}
-            onClick={() => window.open('https://wa.me/c/242807436517486', '_blank')}
+            onClick={() => window.open('https://wa.me/c/553181077170', '_blank')}
           >
             Solicitar via WhatsApp
           </motion.button>
