@@ -6,7 +6,7 @@
 }
 
 .back-button {
-  background: #d946a6;
+  background: #f472b6;
   color: white;
   border: none;
   padding: 0.75rem 1.5rem;
@@ -18,8 +18,8 @@
 }
 
 .back-button:hover {
-  background: #be185d;
-  box-shadow: 0 4px 12px rgba(217, 70, 166, 0.3);
+  background: #d946a6;
+  box-shadow: 0 4px 12px rgba(244, 114, 182, 0.3);
 }
 
 .detail-content {
@@ -50,7 +50,7 @@
 .detail-info h1 {
   font-size: 2.5rem;
   margin: 0 0 1.5rem 0;
-  color: #d946a6;
+  color: #f472b6;
 }
 
 .detail-info .description {
@@ -62,7 +62,7 @@
 }
 
 .cta-button {
-  background: #d946a6;
+  background: #f472b6;
   color: white;
   border: none;
   padding: 1rem 2rem;
@@ -73,8 +73,8 @@
 }
 
 .cta-button:hover {
-  background: #c83a94;
-  box-shadow: 0 4px 12px rgba(217, 70, 166, 0.3);
+  background: #d946a6;
+  box-shadow: 0 4px 12px rgba(244, 114, 182, 0.3);
 }
 
 @media (max-width: 768px) {
