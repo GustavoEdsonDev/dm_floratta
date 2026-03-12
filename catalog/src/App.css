@@ -12,10 +12,10 @@
   transition: filter 300ms;
 }
 .logo:hover {
-  filter: drop-shadow(0 0 2em #646cffaa);
+  filter: drop-shadow(0 0 2em #d946a6aa);
 }
 .logo.react:hover {
-  filter: drop-shadow(0 0 2em #61dafbaa);
+  filter: drop-shadow(0 0 2em #d946a6aa);
 }
 
 @keyframes logo-spin {
@@ -62,7 +62,12 @@
 
 .card h2 {
   margin: 0.5rem 0;
-  color: white;
+  color: #d946a6;
+  font-weight: 600;
+}
+
+.card:hover h2 {
+  color: #be185d;
 }
 
 .read-the-docs {
