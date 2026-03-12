@@ -22,7 +22,7 @@ export const products: Product[] = [
     src: doces,
     title: 'Caixa de Chocolates',
     description:
-      'Chocolates premium em formato de coração com mensagens personalizadas. Cada chocolate é feito artesanalmente com ingredientes de alta qualidade. Ideal para presentes especiais que despertam emoções doces e inesquecíveis.',
+      'Chocolates premium em formato de coração com mensagens personalizadas, acompanhados de lindas rosas artificiais. Cada chocolate é feito artesanalmente com ingredientes de alta qualidade. Ideal para presentes especiais que despertam emoções doces e inesquecíveis.',
   },
   {
     id: 3,
