@@ -13,7 +13,7 @@ export const products: Product[] = [
   {
     id: 1,
     src: buque,
-    title: 'Buquê DM Floratta',
+    title: 'Buquê D&M Floratta',
     description:
       'Um lindo buquê com rosas vermelhas artificiais, acompanhado de chocolates artesanais em forma de coração. Perfeito para expressar seus sentimentos especiais. Cada rosa artificial é cuidadosamente selecionada para garantir beleza duradoura.',
   },

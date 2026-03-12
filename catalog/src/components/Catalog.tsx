@@ -7,7 +7,7 @@ interface CatalogProps {
 const Catalog = ({ children }: CatalogProps) => {
   return (
     <div className="catalog-container">
-      <h1>DM Floratta</h1>
+      <h1>D&M Floratta</h1>
       <div className="image-grid">
         {children}
       </div>
