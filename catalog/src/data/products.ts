@@ -15,7 +15,7 @@ export const products: Product[] = [
     src: buque,
     title: 'Buquê DM Floratta',
     description:
-      'Um lindo buquê com rosas vermelhas frescas, acompanhado de chocolates artesanais em forma de coração. Perfeito para expressar seus sentimentos especiais. Cada rosa é cuidadosamente selecionada para garantir beleza e durabilidade.',
+      'Um lindo buquê com rosas vermelhas artificiais, acompanhado de chocolates artesanais em forma de coração. Perfeito para expressar seus sentimentos especiais. Cada rosa artificial é cuidadosamente selecionada para garantir beleza duradoura.',
   },
   {
     id: 2,
@@ -29,6 +29,6 @@ export const products: Product[] = [
     src: untitled,
     title: 'Arranjo Especial',
     description:
-      'Um arranjo elegante combinando flores vermelhas vivas, pérolas brancas e acabamento premium em tons dourados. Esta composição sofisticada expressa luxo, elegância e sentimento genuíno, perfeita para ocasiões memoráveis.',
+      'Um arranjo elegante combinando rosas artificiais vermelhas vivas, pérolas brancas e acabamento premium em tons dourados. Esta composição sofisticada expressa luxo, elegância e sentimento genuíno, perfeita para ocasiões memoráveis.',
   },
 ]
